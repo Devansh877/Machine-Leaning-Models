@@ -4,4 +4,4 @@
 
 3. This is face recognition model which recognizes the face and mark attendence of individual present or absent.
 
-4. This project contain the Langgraph with API, Which ask user to tell their symptoms. Router Logic will route the correct node.
+4. This project contain the Langgraph with API, Which ask user to tell their symptoms. Router Logic will route the correct node. This LangGraph project is a hospital triage assistant that asks for a symptom, uses Gemini to classify it as General, Emergency, or Mental Health, and then routes the patient to the appropriate ward.
